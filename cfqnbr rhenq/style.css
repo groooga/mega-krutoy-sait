@@ -1,0 +1,90 @@
+body {
+    background-color: Khaki;
+  background-image: radial-gradient(#28410b 1.5px, transparent 1.5px);
+  background-size: 20px 20px;
+}
+
+.previuy {
+    text-align: center;
+    background-color: DarkKhaki;    
+    
+}
+
+.dlya_kartinki {
+    width: 408px;
+  height: 308px; 
+  background-color: black;
+  display: grid;
+  place-items: center;
+  margin-inline: auto;
+   border-radius: 10%;
+   
+}
+
+
+.krutie {
+    width: 400px;
+  height: 300px;
+   border-radius: 10%;
+}
+
+.krutie1 {
+    text-align: center;
+}
+
+.para-kartinok {
+  display: flex;       
+  flex-direction: row;
+  align-items: center;   
+  gap: 20px;    
+  justify-content: center; 
+
+}
+
+.two-kartinkas {
+  width: 400px;
+  height: 300px;
+   border-radius: 10%;
+   border: 3px solid black;
+}
+
+.one-kartinkas{
+  width: 400px;
+  height: 300px;
+   border-radius: 10%;
+   border: 3px solid black;
+}
+
+.poyasnenie {
+  display: flex;       
+  flex-direction: row;
+  gap: 230px;    
+  justify-content: center; 
+}
+/* .............................................................................................................................*/
+
+.vertical-kartinok {
+  display: flex;       
+  flex-direction: row;
+  align-items: center;   
+  gap: 20px;    
+  justify-content: center; 
+}
+
+.two-kartinka {
+  width: 400px;
+  height: 650px;
+   border-radius: 10%;
+   border: 3px solid black;
+}
+
+.one-kartinka {
+  width: 400px;
+  height: 600px;
+   border-radius: 10%;
+   border: 3px solid black;
+}
+
+.podval {
+  background-color:DarkKhaki;
+}
